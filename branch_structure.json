@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-1974-amm-assert-no-active-flash-swap-is-missing-its",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-1974-amm-assert-no-active-flash-swap-is-missing-its": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-1974-amm-assert-no-active-flash-swap-is-missing-its",
+    "origin"
+  ]
+}
